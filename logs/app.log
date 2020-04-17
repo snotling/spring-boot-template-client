@@ -1,0 +1,638 @@
+2020-04-18 00:03:13,278 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] Starting SpringBootTemplateApplication on fiacre with PID 12436 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+2020-04-18 00:03:13,293 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:03:15,078 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 15000 (http)
+2020-04-18 00:03:15,088 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-15000"]
+2020-04-18 00:03:15,088 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-04-18 00:03:15,093 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-18 00:03:15,201 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-04-18 00:03:15,201 INFO org.springframework.web.context.ContextLoader [main] Root WebApplicationContext: initialization completed in 1835 ms
+2020-04-18 00:03:15,615 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-18 00:03:15,826 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-18 00:03:15,868 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-15000"]
+2020-04-18 00:03:15,899 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 15000 (http) with context path ''
+2020-04-18 00:03:15,902 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] Started SpringBootTemplateApplication in 3.205 seconds (JVM running for 3.888)
+2020-04-18 00:03:15,975 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-15000-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-18 00:03:15,975 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-15000-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-18 00:03:15,982 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-15000-exec-1] Completed initialization in 6 ms
+2020-04-18 00:05:00,955 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] Starting SpringBootTemplateApplication on fiacre with PID 9960 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+2020-04-18 00:05:00,961 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:05:02,782 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 15000 (http)
+2020-04-18 00:05:02,793 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-15000"]
+2020-04-18 00:05:02,794 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-04-18 00:05:02,794 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-18 00:05:02,907 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-04-18 00:05:02,907 INFO org.springframework.web.context.ContextLoader [main] Root WebApplicationContext: initialization completed in 1883 ms
+2020-04-18 00:05:03,328 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-18 00:05:03,620 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 15 endpoint(s) beneath base path '/actuator'
+2020-04-18 00:05:03,658 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-15000"]
+2020-04-18 00:05:03,684 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 15000 (http) with context path ''
+2020-04-18 00:05:03,687 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] Started SpringBootTemplateApplication in 3.366 seconds (JVM running for 4.037)
+2020-04-18 00:05:13,209 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-15000-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-18 00:05:13,209 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-15000-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-18 00:05:13,214 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-15000-exec-1] Completed initialization in 5 ms
+2020-04-18 00:05:49,521 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] Starting SpringBootTemplateApplication on fiacre with PID 13484 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+2020-04-18 00:05:49,525 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:05:51,421 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 15000 (http)
+2020-04-18 00:05:51,433 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-15000"]
+2020-04-18 00:05:51,434 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-04-18 00:05:51,434 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-18 00:05:51,555 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-04-18 00:05:51,556 INFO org.springframework.web.context.ContextLoader [main] Root WebApplicationContext: initialization completed in 1958 ms
+2020-04-18 00:05:52,104 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-18 00:05:52,380 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 14 endpoint(s) beneath base path '/actuator'
+2020-04-18 00:05:52,434 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-15000"]
+2020-04-18 00:05:52,475 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 15000 (http) with context path ''
+2020-04-18 00:05:52,478 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] Started SpringBootTemplateApplication in 3.594 seconds (JVM running for 4.776)
+2020-04-18 00:05:55,906 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-15000-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-18 00:05:55,907 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-15000-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-18 00:05:55,913 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-15000-exec-1] Completed initialization in 6 ms
+2020-04-18 00:09:56,955 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] Starting SpringBootTemplateApplication on fiacre with PID 9332 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+2020-04-18 00:09:56,960 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:09:58,752 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 15000 (http)
+2020-04-18 00:09:58,763 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-15000"]
+2020-04-18 00:09:58,764 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-04-18 00:09:58,764 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-18 00:09:58,882 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-04-18 00:09:58,883 INFO org.springframework.web.context.ContextLoader [main] Root WebApplicationContext: initialization completed in 1850 ms
+2020-04-18 00:09:59,293 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-18 00:09:59,614 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 14 endpoint(s) beneath base path '/actuator'
+2020-04-18 00:09:59,661 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-15000"]
+2020-04-18 00:09:59,699 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 15000 (http) with context path ''
+2020-04-18 00:09:59,703 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] Started SpringBootTemplateApplication in 3.372 seconds (JVM running for 4.054)
+2020-04-18 00:10:06,595 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-15000-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-18 00:10:06,596 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-15000-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-18 00:10:06,602 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-15000-exec-1] Completed initialization in 5 ms
+2020-04-18 00:13:07,529 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] Starting SpringBootTemplateApplication on fiacre with PID 8956 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+2020-04-18 00:13:07,534 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:13:09,369 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 15000 (http)
+2020-04-18 00:13:09,380 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-15000"]
+2020-04-18 00:13:09,381 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-04-18 00:13:09,382 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-18 00:13:09,495 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-04-18 00:13:09,495 INFO org.springframework.web.context.ContextLoader [main] Root WebApplicationContext: initialization completed in 1901 ms
+2020-04-18 00:13:10,003 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-18 00:13:10,223 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 14 endpoint(s) beneath base path '/actuator'
+2020-04-18 00:13:10,272 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-15000"]
+2020-04-18 00:13:10,299 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 15000 (http) with context path ''
+2020-04-18 00:13:10,302 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] Started SpringBootTemplateApplication in 3.338 seconds (JVM running for 4.026)
+2020-04-18 00:13:10,804 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-15000-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-18 00:13:10,804 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-15000-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-18 00:13:10,809 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-15000-exec-1] Completed initialization in 4 ms
+2020-04-18 00:15:01,734 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] Starting SpringBootTemplateApplication on fiacre with PID 15992 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+2020-04-18 00:15:01,739 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:15:03,539 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 15000 (http)
+2020-04-18 00:15:03,550 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-15000"]
+2020-04-18 00:15:03,551 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-04-18 00:15:03,551 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-18 00:15:03,663 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-04-18 00:15:03,663 INFO org.springframework.web.context.ContextLoader [main] Root WebApplicationContext: initialization completed in 1857 ms
+2020-04-18 00:15:04,154 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-18 00:15:04,391 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 14 endpoint(s) beneath base path '/actuator'
+2020-04-18 00:15:04,437 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-15000"]
+2020-04-18 00:15:04,466 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 15000 (http) with context path ''
+2020-04-18 00:15:04,471 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] Started SpringBootTemplateApplication in 3.32 seconds (JVM running for 4.003)
+2020-04-18 00:15:10,310 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-15000-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-18 00:15:10,310 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-15000-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-18 00:15:10,315 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-15000-exec-1] Completed initialization in 5 ms
+2020-04-18 00:19:22,905 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] Starting SpringBootTemplateApplication on fiacre with PID 14356 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+2020-04-18 00:19:22,911 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:19:24,722 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 15000 (http)
+2020-04-18 00:19:24,733 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-15000"]
+2020-04-18 00:19:24,733 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-04-18 00:19:24,734 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-18 00:19:24,856 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-04-18 00:19:24,856 INFO org.springframework.web.context.ContextLoader [main] Root WebApplicationContext: initialization completed in 1885 ms
+2020-04-18 00:19:25,330 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-18 00:19:25,566 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 15 endpoint(s) beneath base path '/actuator'
+2020-04-18 00:19:25,606 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-15000"]
+2020-04-18 00:19:25,640 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 15000 (http) with context path ''
+2020-04-18 00:19:25,643 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] Started SpringBootTemplateApplication in 3.347 seconds (JVM running for 4.004)
+2020-04-18 00:19:30,298 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-15000-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-18 00:19:30,299 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-15000-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-18 00:19:30,304 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-15000-exec-1] Completed initialization in 5 ms
+2020-04-18 00:22:58,294 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] Starting SpringBootTemplateApplication on fiacre with PID 12864 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+2020-04-18 00:22:58,299 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:23:00,115 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 15000 (http)
+2020-04-18 00:23:00,126 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-15000"]
+2020-04-18 00:23:00,127 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-04-18 00:23:00,127 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-18 00:23:00,243 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-04-18 00:23:00,243 INFO org.springframework.web.context.ContextLoader [main] Root WebApplicationContext: initialization completed in 1881 ms
+2020-04-18 00:23:00,732 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-18 00:23:00,955 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 15 endpoint(s) beneath base path '/actuator'
+2020-04-18 00:23:01,001 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-15000"]
+2020-04-18 00:23:01,028 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 15000 (http) with context path ''
+2020-04-18 00:23:01,031 INFO org.snot.springboottemplate.SpringBootTemplateApplication [main] Started SpringBootTemplateApplication in 3.304 seconds (JVM running for 3.999)
+2020-04-18 00:23:07,618 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-15000-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-18 00:23:07,618 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-15000-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-04-18 00:23:07,623 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-15000-exec-1] Completed initialization in 5 ms
+2020-04-18 00:27:41,647 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+java.lang.IllegalStateException: Failed to load property source from location 'classpath:/application.yml'
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:545)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.loadForFileExtension(ConfigFileApplicationListener.java:494)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:464)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.lambda$null$7(ConfigFileApplicationListener.java:443)
+	at java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.lambda$load$8(ConfigFileApplicationListener.java:443)
+	at java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:440)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.lambda$load$0(ConfigFileApplicationListener.java:335)
+	at org.springframework.boot.context.config.FilteredPropertySource.apply(FilteredPropertySource.java:54)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:323)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.addPropertySources(ConfigFileApplicationListener.java:214)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.postProcessEnvironment(ConfigFileApplicationListener.java:198)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.onApplicationEnvironmentPreparedEvent(ConfigFileApplicationListener.java:188)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.onApplicationEvent(ConfigFileApplicationListener.java:176)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:76)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:53)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:345)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at org.snot.springboottemplate.SpringBootTemplateApplication.main(SpringBootTemplateApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
+Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning for the next token
+found character '%' that cannot start any token. (Do not use % for indentation)
+ in 'reader', line 6, column 12:
+      pattern: %d{dd-MM-yyyy HH:mm:ss.SSS} %mag ... 
+               ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:419)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:227)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:586)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:124)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:239)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:218)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:239)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:218)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:85)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getData(BaseConstructor.java:125)
+	at org.yaml.snakeyaml.Yaml$1.next(Yaml.java:548)
+	at org.springframework.beans.factory.config.YamlProcessor.process(YamlProcessor.java:160)
+	at org.springframework.beans.factory.config.YamlProcessor.process(YamlProcessor.java:134)
+	at org.springframework.boot.env.OriginTrackedYamlLoader.load(OriginTrackedYamlLoader.java:75)
+	at org.springframework.boot.env.YamlPropertySourceLoader.load(YamlPropertySourceLoader.java:50)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.loadDocuments(ConfigFileApplicationListener.java:562)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:518)
+	... 30 common frames omitted
+18-04-2020 00:28:09.886 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarting - Starting SpringBootTemplateApplication on fiacre with PID 10852 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+18-04-2020 00:28:09.890 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+18-04-2020 00:28:11.726 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 15000 (http)
+18-04-2020 00:28:11.737 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-15000"]
+18-04-2020 00:28:11.737 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+18-04-2020 00:28:11.738 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.33]
+18-04-2020 00:28:11.856 [35m[main][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+18-04-2020 00:28:11.856 [35m[main][0;39m [34mINFO [0;39m o.s.web.context.ContextLoader.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1898 ms
+18-04-2020 00:28:12.343 [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+18-04-2020 00:28:12.579 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.web.EndpointLinksResolver.<init> - Exposing 15 endpoint(s) beneath base path '/actuator'
+18-04-2020 00:28:12.629 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-15000"]
+18-04-2020 00:28:12.659 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 15000 (http) with context path ''
+18-04-2020 00:28:12.663 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarted - Started SpringBootTemplateApplication in 3.36 seconds (JVM running for 4.044)
+18-04-2020 00:28:27.620 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18-04-2020 00:28:27.621 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+18-04-2020 00:28:27.626 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 5 ms
+[32m18-04-2020 00:28:46.186[0;39m [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarting - Starting SpringBootTemplateApplication on fiacre with PID 7136 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+[32m18-04-2020 00:28:46.191[0;39m [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[32m18-04-2020 00:28:48.018[0;39m [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 15000 (http)
+[32m18-04-2020 00:28:48.028[0;39m [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-15000"]
+[32m18-04-2020 00:28:48.029[0;39m [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+[32m18-04-2020 00:28:48.030[0;39m [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.33]
+[32m18-04-2020 00:28:48.145[0;39m [35m[main][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+[32m18-04-2020 00:28:48.146[0;39m [35m[main][0;39m [34mINFO [0;39m o.s.web.context.ContextLoader.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1891 ms
+[32m18-04-2020 00:28:48.616[0;39m [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[32m18-04-2020 00:28:48.841[0;39m [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.web.EndpointLinksResolver.<init> - Exposing 15 endpoint(s) beneath base path '/actuator'
+[32m18-04-2020 00:28:48.889[0;39m [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-15000"]
+[32m18-04-2020 00:28:48.925[0;39m [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 15000 (http) with context path ''
+[32m18-04-2020 00:28:48.929[0;39m [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarted - Started SpringBootTemplateApplication in 3.316 seconds (JVM running for 4.038)
+[32m18-04-2020 00:28:49.129[0;39m [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[32m18-04-2020 00:28:49.129[0;39m [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+[32m18-04-2020 00:28:49.136[0;39m [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 7 ms
+%PARSER_ERROR[darkgreen] [35m[main][0;39m [1;31mERROR[0;39m o.s.boot.SpringApplication.reportFailure - Application run failed
+java.lang.IllegalStateException: Logback configuration error detected: 
+ERROR in ch.qos.logback.core.pattern.parser.Compiler@4d1c00d0 - There is no conversion class registered for composite conversion word [darkgreen]
+ERROR in ch.qos.logback.core.pattern.parser.Compiler@4d1c00d0 - Failed to create converter for [%darkgreen] keyword
+	at org.springframework.boot.logging.logback.LogbackLoggingSystem.loadConfiguration(LogbackLoggingSystem.java:169)
+	at org.springframework.boot.logging.logback.LogbackLoggingSystem.reinitialize(LogbackLoggingSystem.java:222)
+	at org.springframework.boot.logging.AbstractLoggingSystem.initializeWithConventions(AbstractLoggingSystem.java:73)
+	at org.springframework.boot.logging.AbstractLoggingSystem.initialize(AbstractLoggingSystem.java:60)
+	at org.springframework.boot.logging.logback.LogbackLoggingSystem.initialize(LogbackLoggingSystem.java:118)
+	at org.springframework.boot.context.logging.LoggingApplicationListener.initializeSystem(LoggingApplicationListener.java:313)
+	at org.springframework.boot.context.logging.LoggingApplicationListener.initialize(LoggingApplicationListener.java:288)
+	at org.springframework.boot.context.logging.LoggingApplicationListener.onApplicationEnvironmentPreparedEvent(LoggingApplicationListener.java:246)
+	at org.springframework.boot.context.logging.LoggingApplicationListener.onApplicationEvent(LoggingApplicationListener.java:223)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:76)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:53)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:345)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at org.snot.springboottemplate.SpringBootTemplateApplication.main(SpringBootTemplateApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
+18-04-2020 00:30:01.266 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarting - Starting SpringBootTemplateApplication on fiacre with PID 15420 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+18-04-2020 00:30:01.270 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+18-04-2020 00:30:03.085 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 15000 (http)
+18-04-2020 00:30:03.096 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-15000"]
+18-04-2020 00:30:03.097 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+18-04-2020 00:30:03.097 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.33]
+18-04-2020 00:30:03.209 [35m[main][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+18-04-2020 00:30:03.210 [35m[main][0;39m [34mINFO [0;39m o.s.web.context.ContextLoader.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1871 ms
+18-04-2020 00:30:03.709 [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+18-04-2020 00:30:03.940 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.web.EndpointLinksResolver.<init> - Exposing 15 endpoint(s) beneath base path '/actuator'
+18-04-2020 00:30:03.987 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-15000"]
+18-04-2020 00:30:04.018 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 15000 (http) with context path ''
+18-04-2020 00:30:04.021 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarted - Started SpringBootTemplateApplication in 3.341 seconds (JVM running for 4.025)
+18-04-2020 00:30:07.617 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18-04-2020 00:30:07.617 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+18-04-2020 00:30:07.623 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 6 ms
+18-04-2020 00:35:31.128 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarting - Starting SpringBootTemplateApplication on fiacre with PID 9804 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+18-04-2020 00:35:31.133 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+18-04-2020 00:35:33.036 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 15000 (http)
+18-04-2020 00:35:33.048 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-15000"]
+18-04-2020 00:35:33.049 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+18-04-2020 00:35:33.050 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.33]
+18-04-2020 00:35:33.172 [35m[main][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+18-04-2020 00:35:33.172 [35m[main][0;39m [34mINFO [0;39m o.s.web.context.ContextLoader.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1974 ms
+18-04-2020 00:35:33.431 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.w.ServletEndpointRegistrar.register - Registered '/actuator/jolokia' to jolokia-actuator-endpoint
+18-04-2020 00:35:33.672 [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+18-04-2020 00:35:33.995 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.web.EndpointLinksResolver.<init> - Exposing 15 endpoint(s) beneath base path '/actuator'
+18-04-2020 00:35:34.075 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-15000"]
+18-04-2020 00:35:34.111 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 15000 (http) with context path ''
+18-04-2020 00:35:34.115 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarted - Started SpringBootTemplateApplication in 3.578 seconds (JVM running for 4.244)
+18-04-2020 00:35:47.626 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18-04-2020 00:35:47.626 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+18-04-2020 00:35:47.632 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 6 ms
+18-04-2020 00:38:17.632 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarting - Starting SpringBootTemplateApplication on fiacre with PID 3452 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+18-04-2020 00:38:17.639 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+18-04-2020 00:38:19.846 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 15000 (http)
+18-04-2020 00:38:19.858 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-15000"]
+18-04-2020 00:38:19.858 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+18-04-2020 00:38:19.859 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.33]
+18-04-2020 00:38:19.989 [35m[main][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+18-04-2020 00:38:19.989 [35m[main][0;39m [34mINFO [0;39m o.s.web.context.ContextLoader.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2240 ms
+18-04-2020 00:38:20.230 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.w.ServletEndpointRegistrar.register - Registered '/actuator/jolokia' to jolokia-actuator-endpoint
+18-04-2020 00:38:20.450 [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+18-04-2020 00:38:20.769 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.web.EndpointLinksResolver.<init> - Exposing 15 endpoint(s) beneath base path '/actuator'
+18-04-2020 00:38:20.834 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-15000"]
+18-04-2020 00:38:20.869 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 15000 (http) with context path ''
+18-04-2020 00:38:20.874 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarted - Started SpringBootTemplateApplication in 3.902 seconds (JVM running for 4.587)
+18-04-2020 00:38:27.620 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18-04-2020 00:38:27.620 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+18-04-2020 00:38:27.625 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 5 ms
+18-04-2020 00:39:28.388 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarting - Starting SpringBootTemplateApplication on fiacre with PID 16364 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+18-04-2020 00:39:28.393 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+18-04-2020 00:39:30.287 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 15000 (http)
+18-04-2020 00:39:30.298 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-15000"]
+18-04-2020 00:39:30.298 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+18-04-2020 00:39:30.299 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.33]
+18-04-2020 00:39:30.412 [35m[main][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+18-04-2020 00:39:30.412 [35m[main][0;39m [34mINFO [0;39m o.s.web.context.ContextLoader.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1937 ms
+18-04-2020 00:39:30.866 [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+18-04-2020 00:39:31.274 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.web.EndpointLinksResolver.<init> - Exposing 14 endpoint(s) beneath base path '/actuator'
+18-04-2020 00:39:31.353 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-15000"]
+18-04-2020 00:39:31.383 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 15000 (http) with context path ''
+18-04-2020 00:39:31.388 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarted - Started SpringBootTemplateApplication in 3.639 seconds (JVM running for 4.457)
+18-04-2020 00:39:43.768 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18-04-2020 00:39:43.769 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+18-04-2020 00:39:43.775 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 6 ms
+18-04-2020 00:40:20.824 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarting - Starting SpringBootTemplateApplication on fiacre with PID 15836 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+18-04-2020 00:40:20.831 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+18-04-2020 00:40:22.964 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 15000 (http)
+18-04-2020 00:40:22.975 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-15000"]
+18-04-2020 00:40:22.976 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+18-04-2020 00:40:22.976 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.33]
+18-04-2020 00:40:23.086 [35m[main][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+18-04-2020 00:40:23.087 [35m[main][0;39m [34mINFO [0;39m o.s.web.context.ContextLoader.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2153 ms
+18-04-2020 00:40:23.609 [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+18-04-2020 00:40:23.910 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.web.EndpointLinksResolver.<init> - Exposing 14 endpoint(s) beneath base path '/actuator'
+18-04-2020 00:40:23.966 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-15000"]
+18-04-2020 00:40:23.995 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 15000 (http) with context path ''
+18-04-2020 00:40:23.998 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarted - Started SpringBootTemplateApplication in 3.86 seconds (JVM running for 4.561)
+18-04-2020 00:40:24.269 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18-04-2020 00:40:24.270 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+18-04-2020 00:40:24.277 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 7 ms
+18-04-2020 00:41:02.533 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarting - Starting SpringBootTemplateApplication on fiacre with PID 16208 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+18-04-2020 00:41:02.539 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+18-04-2020 00:41:04.388 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 15000 (http)
+18-04-2020 00:41:04.399 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-15000"]
+18-04-2020 00:41:04.400 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+18-04-2020 00:41:04.401 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.33]
+18-04-2020 00:41:04.510 [35m[main][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+18-04-2020 00:41:04.511 [35m[main][0;39m [34mINFO [0;39m o.s.web.context.ContextLoader.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1906 ms
+18-04-2020 00:41:04.785 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.w.ServletEndpointRegistrar.register - Registered '/actuator/jolokia' to jolokia-actuator-endpoint
+18-04-2020 00:41:05.031 [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+18-04-2020 00:41:05.364 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.web.EndpointLinksResolver.<init> - Exposing 15 endpoint(s) beneath base path '/actuator'
+18-04-2020 00:41:05.448 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-15000"]
+18-04-2020 00:41:05.483 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 15000 (http) with context path ''
+18-04-2020 00:41:05.487 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarted - Started SpringBootTemplateApplication in 3.568 seconds (JVM running for 4.411)
+18-04-2020 00:41:05.767 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18-04-2020 00:41:05.768 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+18-04-2020 00:41:05.773 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 5 ms
+18-04-2020 00:42:43.262 [35m[http-nio-15000-exec-7][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - jolokia-actuator-endpoint: No access restrictor found, access to any MBean is allowed
+18-04-2020 00:47:49.431 [35m[main][0;39m [1;31mERROR[0;39m o.s.boot.SpringApplication.reportFailure - Application run failed
+java.lang.IllegalStateException: Failed to load property source from location 'classpath:/application.yml'
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:545)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.loadForFileExtension(ConfigFileApplicationListener.java:494)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:464)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.lambda$null$7(ConfigFileApplicationListener.java:443)
+	at java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.lambda$load$8(ConfigFileApplicationListener.java:443)
+	at java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:440)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.lambda$load$0(ConfigFileApplicationListener.java:335)
+	at org.springframework.boot.context.config.FilteredPropertySource.apply(FilteredPropertySource.java:54)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:323)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.addPropertySources(ConfigFileApplicationListener.java:214)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.postProcessEnvironment(ConfigFileApplicationListener.java:198)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.onApplicationEnvironmentPreparedEvent(ConfigFileApplicationListener.java:188)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.onApplicationEvent(ConfigFileApplicationListener.java:176)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:76)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:53)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:345)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at org.snot.springboottemplate.SpringBootTemplateApplication.main(SpringBootTemplateApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
+Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'reader', line 25, column 9:
+            include: '*', jolokia
+            ^
+expected <block end>, but found ','
+ in 'reader', line 25, column 21:
+            include: '*', jolokia
+                        ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:572)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:217)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:239)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:218)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:239)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:218)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:239)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:218)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:239)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:218)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:85)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getData(BaseConstructor.java:125)
+	at org.yaml.snakeyaml.Yaml$1.next(Yaml.java:548)
+	at org.springframework.beans.factory.config.YamlProcessor.process(YamlProcessor.java:160)
+	at org.springframework.beans.factory.config.YamlProcessor.process(YamlProcessor.java:134)
+	at org.springframework.boot.env.OriginTrackedYamlLoader.load(OriginTrackedYamlLoader.java:75)
+	at org.springframework.boot.env.YamlPropertySourceLoader.load(YamlPropertySourceLoader.java:50)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.loadDocuments(ConfigFileApplicationListener.java:562)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:518)
+	... 30 common frames omitted
+18-04-2020 00:48:03.705 [35m[main][0;39m [1;31mERROR[0;39m o.s.boot.SpringApplication.reportFailure - Application run failed
+java.lang.IllegalStateException: Failed to load property source from location 'classpath:/application.yml'
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:545)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.loadForFileExtension(ConfigFileApplicationListener.java:494)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:464)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.lambda$null$7(ConfigFileApplicationListener.java:443)
+	at java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.lambda$load$8(ConfigFileApplicationListener.java:443)
+	at java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:440)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.lambda$load$0(ConfigFileApplicationListener.java:335)
+	at org.springframework.boot.context.config.FilteredPropertySource.apply(FilteredPropertySource.java:54)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:323)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.addPropertySources(ConfigFileApplicationListener.java:214)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.postProcessEnvironment(ConfigFileApplicationListener.java:198)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.onApplicationEnvironmentPreparedEvent(ConfigFileApplicationListener.java:188)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener.onApplicationEvent(ConfigFileApplicationListener.java:176)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:76)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:53)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:345)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at org.snot.springboottemplate.SpringBootTemplateApplication.main(SpringBootTemplateApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
+Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'reader', line 25, column 9:
+            include: '*',jolokia
+            ^
+expected <block end>, but found ','
+ in 'reader', line 25, column 21:
+            include: '*',jolokia
+                        ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:572)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:217)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:239)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:218)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:239)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:218)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:239)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:218)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:239)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:218)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144)
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:85)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getData(BaseConstructor.java:125)
+	at org.yaml.snakeyaml.Yaml$1.next(Yaml.java:548)
+	at org.springframework.beans.factory.config.YamlProcessor.process(YamlProcessor.java:160)
+	at org.springframework.beans.factory.config.YamlProcessor.process(YamlProcessor.java:134)
+	at org.springframework.boot.env.OriginTrackedYamlLoader.load(OriginTrackedYamlLoader.java:75)
+	at org.springframework.boot.env.YamlPropertySourceLoader.load(YamlPropertySourceLoader.java:50)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.loadDocuments(ConfigFileApplicationListener.java:562)
+	at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.load(ConfigFileApplicationListener.java:518)
+	... 30 common frames omitted
+18-04-2020 00:48:15.622 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarting - Starting SpringBootTemplateApplication on fiacre with PID 6552 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+18-04-2020 00:48:15.630 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+18-04-2020 00:48:18.282 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 15000 (http)
+18-04-2020 00:48:18.304 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-15000"]
+18-04-2020 00:48:18.306 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+18-04-2020 00:48:18.307 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.33]
+18-04-2020 00:48:18.491 [35m[main][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+18-04-2020 00:48:18.492 [35m[main][0;39m [34mINFO [0;39m o.s.web.context.ContextLoader.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2763 ms
+18-04-2020 00:48:18.866 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.w.ServletEndpointRegistrar.register - Registered '/actuator/jolokia' to jolokia-actuator-endpoint
+18-04-2020 00:48:19.203 [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+18-04-2020 00:48:19.674 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.web.EndpointLinksResolver.<init> - Exposing 15 endpoint(s) beneath base path '/actuator'
+18-04-2020 00:48:19.766 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-15000"]
+18-04-2020 00:48:19.815 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 15000 (http) with context path ''
+18-04-2020 00:48:19.820 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarted - Started SpringBootTemplateApplication in 5.036 seconds (JVM running for 6.026)
+18-04-2020 00:48:36.741 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18-04-2020 00:48:36.742 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+18-04-2020 00:48:36.749 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 7 ms
+18-04-2020 00:48:51.461 [35m[http-nio-15000-exec-3][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - jolokia-actuator-endpoint: No access restrictor found, access to any MBean is allowed
+18-04-2020 01:15:14.317 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarting - Starting SpringBootTemplateApplication on fiacre with PID 2348 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+18-04-2020 01:15:14.322 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+18-04-2020 01:15:16.333 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 15000 (http)
+18-04-2020 01:15:16.349 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-15000"]
+18-04-2020 01:15:16.350 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+18-04-2020 01:15:16.351 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.33]
+18-04-2020 01:15:16.497 [35m[main][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+18-04-2020 01:15:16.497 [35m[main][0;39m [34mINFO [0;39m o.s.web.context.ContextLoader.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2093 ms
+18-04-2020 01:15:16.786 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.w.ServletEndpointRegistrar.register - Registered '/actuator/jolokia' to jolokia-actuator-endpoint
+18-04-2020 01:15:17.025 [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+18-04-2020 01:15:17.356 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.web.EndpointLinksResolver.<init> - Exposing 15 endpoint(s) beneath base path '/actuator'
+18-04-2020 01:15:17.435 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-15000"]
+18-04-2020 01:15:17.469 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 15000 (http) with context path ''
+18-04-2020 01:15:17.472 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarted - Started SpringBootTemplateApplication in 3.724 seconds (JVM running for 4.434)
+18-04-2020 01:15:23.686 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18-04-2020 01:15:23.687 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+18-04-2020 01:15:23.692 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 5 ms
+18-04-2020 01:15:25.532 [35m[http-nio-15000-exec-2][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - jolokia-actuator-endpoint: No access restrictor found, access to any MBean is allowed
+18-04-2020 01:18:39.438 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarting - Starting SpringBootTemplateApplication on fiacre with PID 8960 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+18-04-2020 01:18:39.443 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+18-04-2020 01:18:41.322 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 15000 (http)
+18-04-2020 01:18:41.334 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-15000"]
+18-04-2020 01:18:41.334 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+18-04-2020 01:18:41.335 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.33]
+18-04-2020 01:18:41.470 [35m[main][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+18-04-2020 01:18:41.471 [35m[main][0;39m [34mINFO [0;39m o.s.web.context.ContextLoader.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1956 ms
+18-04-2020 01:18:41.736 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.w.ServletEndpointRegistrar.register - Registered '/actuator/jolokia' to jolokia-actuator-endpoint
+18-04-2020 01:18:41.982 [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+18-04-2020 01:18:42.311 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.web.EndpointLinksResolver.<init> - Exposing 15 endpoint(s) beneath base path '/actuator'
+18-04-2020 01:18:42.390 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-15000"]
+18-04-2020 01:18:42.428 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 15000 (http) with context path ''
+18-04-2020 01:18:42.433 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarted - Started SpringBootTemplateApplication in 3.588 seconds (JVM running for 4.301)
+18-04-2020 01:18:43.691 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18-04-2020 01:18:43.692 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+18-04-2020 01:18:43.697 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 5 ms
+18-04-2020 01:19:35.217 [35m[http-nio-15000-exec-6][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - jolokia-actuator-endpoint: No access restrictor found, access to any MBean is allowed
+18-04-2020 01:24:10.257 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarting - Starting SpringBootTemplateApplication on fiacre with PID 9892 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+18-04-2020 01:24:10.262 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+18-04-2020 01:24:12.114 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 15000 (http)
+18-04-2020 01:24:12.126 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-15000"]
+18-04-2020 01:24:12.127 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+18-04-2020 01:24:12.127 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.33]
+18-04-2020 01:24:12.242 [35m[main][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+18-04-2020 01:24:12.243 [35m[main][0;39m [34mINFO [0;39m o.s.web.context.ContextLoader.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1907 ms
+18-04-2020 01:24:12.528 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.w.ServletEndpointRegistrar.register - Registered '/actuator/jolokia' to jolokia-actuator-endpoint
+18-04-2020 01:24:12.784 [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+18-04-2020 01:24:13.124 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.web.EndpointLinksResolver.<init> - Exposing 15 endpoint(s) beneath base path '/actuator'
+18-04-2020 01:24:13.195 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-15000"]
+18-04-2020 01:24:13.228 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 15000 (http) with context path ''
+18-04-2020 01:24:13.232 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarted - Started SpringBootTemplateApplication in 3.575 seconds (JVM running for 4.272)
+18-04-2020 01:24:23.701 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18-04-2020 01:24:23.701 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+18-04-2020 01:24:23.708 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 6 ms
+18-04-2020 01:24:32.710 [35m[http-nio-15000-exec-2][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - jolokia-actuator-endpoint: No access restrictor found, access to any MBean is allowed
+18-04-2020 01:26:29.124 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarting - Starting SpringBootTemplateApplication on fiacre with PID 7104 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+18-04-2020 01:26:29.130 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+18-04-2020 01:26:31.010 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 15000 (http)
+18-04-2020 01:26:31.021 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-15000"]
+18-04-2020 01:26:31.021 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+18-04-2020 01:26:31.022 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.33]
+18-04-2020 01:26:31.136 [35m[main][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+18-04-2020 01:26:31.137 [35m[main][0;39m [34mINFO [0;39m o.s.web.context.ContextLoader.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1914 ms
+18-04-2020 01:26:31.430 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.w.ServletEndpointRegistrar.register - Registered '/actuator/jolokia' to jolokia-actuator-endpoint
+18-04-2020 01:26:31.647 [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+18-04-2020 01:26:31.876 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.web.EndpointLinksResolver.<init> - Exposing 15 endpoint(s) beneath base path '/actuator'
+18-04-2020 01:26:31.919 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-15000"]
+18-04-2020 01:26:31.953 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 15000 (http) with context path ''
+18-04-2020 01:26:31.956 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarted - Started SpringBootTemplateApplication in 3.409 seconds (JVM running for 4.066)
+18-04-2020 01:26:43.685 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18-04-2020 01:26:43.686 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+18-04-2020 01:26:43.691 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 5 ms
+18-04-2020 01:34:24.576 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarting - Starting SpringBootTemplateApplication on fiacre with PID 15796 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+18-04-2020 01:34:24.583 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+18-04-2020 01:34:26.508 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 15000 (http)
+18-04-2020 01:34:26.519 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-15000"]
+18-04-2020 01:34:26.520 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+18-04-2020 01:34:26.520 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.33]
+18-04-2020 01:34:26.643 [35m[main][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+18-04-2020 01:34:26.643 [35m[main][0;39m [34mINFO [0;39m o.s.web.context.ContextLoader.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1985 ms
+18-04-2020 01:34:26.938 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.w.ServletEndpointRegistrar.register - Registered '/actuator/jolokia' to jolokia-actuator-endpoint
+18-04-2020 01:34:27.190 [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+18-04-2020 01:34:27.451 [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskScheduler.initialize - Initializing ExecutorService 'taskScheduler'
+18-04-2020 01:34:27.458 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.web.EndpointLinksResolver.<init> - Exposing 15 endpoint(s) beneath base path '/actuator'
+18-04-2020 01:34:27.514 [35m[scheduling-1][0;39m [34mINFO [0;39m o.s.s.schedule.Schedule.process - Process ...
+18-04-2020 01:34:27.516 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-15000"]
+18-04-2020 01:34:27.551 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 15000 (http) with context path ''
+18-04-2020 01:34:27.554 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarted - Started SpringBootTemplateApplication in 3.62 seconds (JVM running for 4.341)
+18-04-2020 01:34:40.746 [35m[http-nio-15000-exec-3][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18-04-2020 01:34:40.746 [35m[http-nio-15000-exec-3][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+18-04-2020 01:34:40.754 [35m[http-nio-15000-exec-3][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 8 ms
+18-04-2020 01:35:03.515 [35m[scheduling-1][0;39m [34mINFO [0;39m o.s.s.schedule.Schedule.process - Process ...
+18-04-2020 01:35:39.517 [35m[scheduling-1][0;39m [34mINFO [0;39m o.s.s.schedule.Schedule.process - Process ...
+18-04-2020 01:36:15.518 [35m[scheduling-1][0;39m [34mINFO [0;39m o.s.s.schedule.Schedule.process - Process ...
+18-04-2020 01:36:51.520 [35m[scheduling-1][0;39m [34mINFO [0;39m o.s.s.schedule.Schedule.process - Process ...
+18-04-2020 01:37:27.522 [35m[scheduling-1][0;39m [34mINFO [0;39m o.s.s.schedule.Schedule.process - Process ...
+18-04-2020 01:37:33.239 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarting - Starting SpringBootTemplateApplication on fiacre with PID 14896 (C:\Developpement\repo\spring-boot-template-client\target\classes started by robbie in C:\Developpement\repo\spring-boot-template-client)
+18-04-2020 01:37:33.245 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+18-04-2020 01:37:35.144 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 15000 (http)
+18-04-2020 01:37:35.155 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Initializing ProtocolHandler ["http-nio-15000"]
+18-04-2020 01:37:35.156 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+18-04-2020 01:37:35.156 [35m[main][0;39m [34mINFO [0;39m o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.33]
+18-04-2020 01:37:35.267 [35m[main][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+18-04-2020 01:37:35.267 [35m[main][0;39m [34mINFO [0;39m o.s.web.context.ContextLoader.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1940 ms
+18-04-2020 01:37:35.553 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.w.ServletEndpointRegistrar.register - Registered '/actuator/jolokia' to jolokia-actuator-endpoint
+18-04-2020 01:37:35.798 [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+18-04-2020 01:37:36.030 [35m[main][0;39m [34mINFO [0;39m o.s.s.c.ThreadPoolTaskScheduler.initialize - Initializing ExecutorService 'taskScheduler'
+18-04-2020 01:37:36.037 [35m[main][0;39m [34mINFO [0;39m o.s.b.a.e.web.EndpointLinksResolver.<init> - Exposing 15 endpoint(s) beneath base path '/actuator'
+18-04-2020 01:37:36.086 [35m[scheduling-1][0;39m [34mINFO [0;39m o.s.s.schedule.Schedule.process - Process ...
+18-04-2020 01:37:36.088 [35m[main][0;39m [34mINFO [0;39m o.a.coyote.http11.Http11NioProtocol.log - Starting ProtocolHandler ["http-nio-15000"]
+18-04-2020 01:37:36.123 [35m[main][0;39m [34mINFO [0;39m o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 15000 (http) with context path ''
+18-04-2020 01:37:36.126 [35m[main][0;39m [34mINFO [0;39m o.s.s.SpringBootTemplateApplication.logStarted - Started SpringBootTemplateApplication in 3.51 seconds (JVM running for 4.264)
+18-04-2020 01:37:43.686 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18-04-2020 01:37:43.686 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+18-04-2020 01:37:43.694 [35m[http-nio-15000-exec-1][0;39m [34mINFO [0;39m o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 7 ms
+18-04-2020 01:38:12.089 [35m[scheduling-1][0;39m [34mINFO [0;39m o.s.s.schedule.Schedule.process - Process ...
+18-04-2020 01:38:48.090 [35m[scheduling-1][0;39m [34mINFO [0;39m o.s.s.schedule.Schedule.process - Process ...
+18-04-2020 01:39:24.092 [35m[scheduling-1][0;39m [34mINFO [0;39m o.s.s.schedule.Schedule.process - Process ...
+18-04-2020 01:40:00.093 [35m[scheduling-1][0;39m [34mINFO [0;39m o.s.s.schedule.Schedule.process - Process ...
+18-04-2020 01:40:36.095 [35m[scheduling-1][0;39m [34mINFO [0;39m o.s.s.schedule.Schedule.process - Process ...
+18-04-2020 01:41:12.097 [35m[scheduling-1][0;39m [34mINFO [0;39m o.s.s.schedule.Schedule.process - Process ...
+18-04-2020 01:41:48.098 [35m[scheduling-1][0;39m [34mINFO [0;39m o.s.s.schedule.Schedule.process - Process ...
+18-04-2020 01:42:24.099 [35m[scheduling-1][0;39m [34mINFO [0;39m o.s.s.schedule.Schedule.process - Process ...

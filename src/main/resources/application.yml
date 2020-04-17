@@ -1,20 +1,30 @@
 spring:
   application:
-      name: xmock-satellite
-  boot:
-    admin:
-      client:
-        url: http://localhost:9000
+      name: test-service
 
+logging:
+  config:
+    classpath: logback.xml
 
 server:
    port: 15000
 
 
+# Display in block info
+info:
+  environment: dev
+  github: https://github.com/snotling/spring-boot-template-client
+  documentation: https://github.com/codecentric/spring-boot-admin
+
 management:
   endpoints:
-    health:
-      show-details: always
     web:
       exposure:
         include: '*'
+# Log file display
+  endpoint:
+    health:
+      show-details: always
+    logfile:
+      enabled: true
+      external-file: logs/app.log

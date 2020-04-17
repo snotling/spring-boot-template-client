@@ -25,9 +25,10 @@
 			<artifactId>spring-boot-starter</artifactId>
 		</dependency>
 
+		<!-- active mbean -->
 		<dependency>
-			<groupId>de.codecentric</groupId>
-			<artifactId>spring-boot-admin-starter-client</artifactId>
+			<groupId>org.jolokia</groupId>
+			<artifactId>jolokia-core</artifactId>
 		</dependency>
 
 		<dependency>
@@ -57,17 +58,17 @@
 		</dependency>
 	</dependencies>
 
-	<dependencyManagement>
-		<dependencies>
-			<dependency>
-				<groupId>de.codecentric</groupId>
-				<artifactId>spring-boot-admin-dependencies</artifactId>
-				<version>${spring-boot-admin.version}</version>
-				<type>pom</type>
-				<scope>import</scope>
-			</dependency>
-		</dependencies>
-	</dependencyManagement>
+	<!--<dependencyManagement>-->
+		<!--<dependencies>-->
+			<!--<dependency>-->
+				<!--<groupId>de.codecentric</groupId>-->
+				<!--<artifactId>spring-boot-admin-dependencies</artifactId>-->
+				<!--<version>${spring-boot-admin.version}</version>-->
+				<!--<type>pom</type>-->
+				<!--<scope>import</scope>-->
+			<!--</dependency>-->
+		<!--</dependencies>-->
+	<!--</dependencyManagement>-->
 
 	<build>
 		<plugins>
