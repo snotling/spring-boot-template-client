@@ -10,8 +10,9 @@ import org.springframework.web.bind.annotation.RestController;
 public class InstrumentController {
 
     @GetMapping("/api/instrument")
-    public boolean getInsterument(@RequestParam("id")String id) {
-        log.debug(id);
+    public boolean getInsterument(@RequestParam("id")String id) throws InterruptedException {
+        log.info(id);
+        Thread.sleep(5000);
         return true;
     }
 

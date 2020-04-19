@@ -8,7 +8,9 @@ import org.springframework.stereotype.Component;
 @Slf4j
 public class Schedule {
 
-    @Scheduled(fixedDelay = 36000)
+    private final static int DELAY = 1000 * 60 * 5;
+
+    @Scheduled(fixedDelay = DELAY)
     public void process() {
         log.info("Process ...");
     }

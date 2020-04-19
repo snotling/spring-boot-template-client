@@ -1,6 +1,8 @@
 spring:
   application:
       name: test-service
+  zipkin:
+    base-url: http://localhost:9000/zipkin
 
 logging:
   config:
